@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "my-react--app",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "npm: start - my-react--app",
+			"detail": "react-scripts start"
+		}
+	]
+}
